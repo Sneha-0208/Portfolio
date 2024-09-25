@@ -1,2 +1,2 @@
 # Portfolio
-My portfolio showcasing my qualifications, achievements and areas of interest, developed using HTML and CSS.
+My portfolio showcases my qualifications, achievements, projects and areas of interest. It is developed using HTML and CSS.
